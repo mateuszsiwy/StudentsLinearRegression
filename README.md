@@ -1,4 +1,7 @@
 # StudentsLinearRegression
+
+link to the data -> https://archive.ics.uci.edu/dataset/320/student+performance
+
  This project predicts students' final grades based on diverse life factors, utilizing data from the 2014-2015 Portugal high school student performance study.
 
 The objective of this task was to enhance proficiency in data manipulation, towards building a Machine Learning model. I used tools such as: Matplotlib, Pandas, Numpy, Scikit-learn, and Seaborn. During the data preparation phase, I checked feature-target correlations to eliminate redundant features.
